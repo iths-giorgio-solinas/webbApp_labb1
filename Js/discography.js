@@ -4,15 +4,18 @@ fetch("Data/data.json").
 then((res)=>(res.json())).
 then((data)=>{
     let albums = document.querySelector('#albums');
-    console.log(data)
     createSingleAlbum(data, albums);
     addToLocal(data);
     
 }).catch((e)=>{
     console.log(e);
 });
+
+//with the following function I add the content of my order to the local storage
 function addToLocal(data) {
+    //array of buttons to buy an album
     let buy = document.querySelectorAll('.buy');
+    //loop through the buttons
     for (let j = 0; j < buy.length; j++) {
         buy[j].addEventListener('click', (e) => {
             let counter=0;
@@ -55,6 +58,7 @@ function addToLocal(data) {
     }
 }
 
+//with the following function I create the main content of the page through fetch.
 function createSingleAlbum(data, albums) {
     for (let album of data.disks) {
         let albumContainer = document.createElement('article');

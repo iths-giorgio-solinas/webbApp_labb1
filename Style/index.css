@@ -285,7 +285,7 @@ span{
         width: 320px;
     }
 }
-@media screen and (min-width: 768px)  {
+@media screen and (min-width: 769px)  {
     form{
         width: 50%;
         
@@ -304,13 +304,10 @@ span{
     }
     
     .right-album{
-        width: 100%;
         margin-left: 10%;
-        box-sizing:content-box;
         padding: 8% 5% 0 0;
         display: flex;
         flex-direction: column;
-        justify-content:flex-end;
     }
 
     #news{
@@ -325,7 +322,6 @@ span{
         width: 50%;
     }
     #mainForm{
-        width:100%;
         display: flex;
     }
     
@@ -367,13 +363,6 @@ span{
         padding-top: 1%;
     }
 
-    .center{
-        display: flex;
-        flex-direction: row;
-        width: 100%;
-        padding: 5% 0;
-    }
-
     .hamburger{
         display: none;
     }
@@ -391,19 +380,6 @@ span{
         position: relative;
         top: 0;
     }
-    
-    #news{
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr 1fr;
-        column-gap: 10px;
-        row-gap: 15px;
-        
-    }
 
-}
-@media screen and (min-width: 1280px) {
-    iframe{
-        height: 305px;
-    }
+
 }
