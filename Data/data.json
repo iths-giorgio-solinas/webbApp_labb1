@@ -1,0 +1,147 @@
+{
+  "disks": [
+    {
+      "Title": "Iron Maiden",
+      "Songs": ["Prowler","Sanctuary","Remember Tomorrow","Running Free","Phantom of the Opera",
+        "Transylvania",	"Strange World", "Charlotte the Harlot", "Iron Maiden"],
+      "ReleaseDate": "14-04-1980",
+      "Image":"Images/Iron_Maiden.jpg",
+      "CartImage":"Images/CartImages/Iron_Maiden.jpg",
+      "Price":79
+    },
+    {
+      "Title": "Killers",
+      "Songs": ["The Ides of March","Wrathchild","Murders in the Rue Morgue", "Another Life", "Genghis Khan",
+        "Innocent Exile", "Killers","Prodigal Son","Purgatory","Twilight Zone","Drifter"],
+      "ReleaseDate": "02-02-1981",
+      "Image":"Images/Killers.jpg",
+      "CartImage":"Images/CartImages/Killers.jpg",
+      "Price":79
+    },
+    {
+      "Title": "The Number of the Beast",
+      "Songs": ["Invaders", "Children of the Damned","The Prisoner","22 Acacia Avenue",
+        "The Number of the Beast", "Run to the Hills","Gangland","Hallowed Be Thy Name"],
+      "ReleaseDate": "22-03-1982",
+      "Image":"Images/Number_Of_The_Beast.jpg",
+      "CartImage":"Images/CartImages/Number_Of_The_Beast.jpg",
+      "Price":79
+
+    },
+    {"Title": "Piece of Mind",
+      "Songs": ["Where Eagles Dare","Revelations","Flight of Icarus","Die with your Boots on", "The Trooper",
+        "Still Life", "Quest for Fire","Sun and Steel","To Tame a Land"],
+      "ReleaseDate": "16-05-1983",
+      "Image":"Images/Piece_Of_Mind.jpg",
+      "CartImage":"Images/CartImages/Piece_Of_Mind.jpg",
+      "Price":79
+    },
+    {
+      "Title": "Powerslave",
+      "Songs": ["Aces High","2 Minutes to Midnight","Losfer Words (Big 'Orra)","Flash of the Blade", "The Duellists",
+        "Back in the Village", "Poweslave","Rime of the Ancient Mariner"],
+      "ReleaseDate": "03-09-1984",
+      "Image":"Images/Powerslave.jpg",
+      "CartImage":"Images/CartImages/Powerslave.jpg",
+      "Price":79
+    },
+    {
+      "Title": "Somewhere in Time",
+      "Songs": ["Caught Somewhere in Time","Wasted Years","Sea of Madness", "Heaven Can Wait",
+        "The Loneliness of the Long Distance Runner","Stranger in a Strange Land","Deja Vu", "Alexander The Great"],
+      "ReleaseDate": "11-10-1986",
+      "Image":"Images/Somewhere_In_Time.jpg",
+      "CartImage":"Images/CartImages/Somewhere_In_Time.jpg",
+      "Price":79
+    },
+    {
+      "Title": "Seventh Son of a Seventh Son",
+      "Songs": ["Moonchild", "Infinite Dreams", "Can I Play with Madness?","The Evil that Men Do", 
+        "Seventh Son of a Seventh son","The Prophecy","The Clairvoyant", "Only the Good Die Young"],
+      "ReleaseDate": "23-04-1988",
+      "Image":"Images/Seventh_Son_Of_A_Seventh_Son.jpg",
+      "CartImage":"Images/CartImages/Seventh_Son_Of_A_Seventh_Son.jpg",
+      "Price":79
+    },
+    {
+      "Title": "No Prayer for the Dying",
+      "Songs": ["Tailgunner","Holy Smoke","No Prayer for the Dying", "Public Enema Number One", "Fates Warning",
+        "The Assassin","Run Silent Run Deep","Hooks in you", "Bring your Daugther... to the Slaugther", "Mother Russia"],
+      "ReleaseDate": "01-10-1990",
+      "Image":"Images/No_Prayer_For_The_Dying.jpg",
+      "CartImage":"Images/CartImages/No_Prayer_For_The_Dying.jpg",
+      "Price":59
+    },{
+      "Title": "Fear of the Dark",
+      "Songs": ["Be Quick or Be Dead","From Here to Eternety","Afraid to Shoot Strangers", "Fear is the Key","Childhood's End",
+        "Wasting Love","The Fugitive","Chains of Misery","The Apparition", "Judas Be my Guide", "Weekend Warrior", "Fear of the Dark"],
+      "ReleaseDate": "11-05-1992",
+      "Image":"Images/Fear_OF_The_Dark.jpg",
+      "CartImage":"Images/CartImages/Fear_OF_The_Dark.jpg",
+      "Price":59
+    },
+    {
+      "Title": "The X Factor",
+      "Songs": ["Sign of the Cross","Lord of the Flies",	"Man on the Edge","Fortunes of War","Look for the Truth",
+        "The Aftermath","Judgement of Heaven","Blood on the World's Hands","The Edge of Darkness","2 A.M.","The Unbeliever"],
+      "ReleaseDate": "02-10-1995",
+      "Image":"Images/The_X_Factor.jpg",
+      "CartImage":"Images/CartImages/The_X_Factor.jpg",
+      "Price":59
+    },
+    {
+      "Title": "Virtual XI",
+      "Songs": ["Futureal","The Angel and the Gambler","Lightning Strikes Twice","The Clansman",
+        "When Two Worlds Collide","The Educated Fool","Don't Look to the Eyes of a Stranger","Como Estais Amigos"],
+      "ReleaseDate": "23-03-1998",
+      "Image":"Images/Virtual_XI.jpg",
+      "CartImage":"Images/CartImages/Virtual_XI.jpg",
+      "Price":59
+    },
+    {
+      "Title": "Brave New World",
+      "Songs": ["The Wicker Man","Ghost of the Navigator","Brave New World","Blood Brothers","The Mercenary",	
+        "Dream of Mirrors","The Fallen Angel","The Nomad","Out of the Silent Planet","The Thin Line Between Love and Hate"],
+      "ReleaseDate": "29-05-2000",
+      "Image":"Images/Brave_New_World.jpg",
+      "CartImage":"Images/CartImages/Brave_New_World.jpg",
+      "Price":79
+    },
+    {
+      "Title": "Dance of Death",
+      "Songs": ["Wildest Dreams","Rainmaker","No More Lies","Montségur","Dance of Death",
+        "Gates of Tomorrow","New Frontier",	"Paschendale","Face in the Sand","Age of Innocence","Journeyman"],
+      "ReleaseDate": "02-09-2003",
+      "Image":"Images/Dance_Of_Death.jpg",
+      "CartImage":"Images/CartImages/Dance_Of_Death.jpg",
+      "Price":79
+    },
+    {
+      "Title": "A Matter of Life and Death",
+      "Songs": ["Different World","These Colours Don't Run","Brighter Than a Thousand Suns","The Pilgrim","The Longest Day",
+        "Out of the Shadows","The Reincarnation of Benjamin Breeg","For the Greater Good of God","Lord of Light","The Legacy"],
+      "ReleaseDate": "25-08-2006",
+      "Image":"Images/A_Matter_Of_Life_And_Death.jpg",
+      "CartImage":"Images/CartImages/A_Matter_Of_Life_And_Death.jpg",
+      "Price":79
+    },
+    {
+      "Title": "The Final Frontier",
+      "Songs": [	"Satellite 15... The Final Frontier","El Dorado","Mother of Mercy","Coming Home","The Alchemist",
+        "Isle of Avalon","Starblind","The Talisman","The Man Who Would Be King","When the Wild Wind Blows"],
+      "ReleaseDate": "13-08-2010",
+      "Image":"Images/The_Final_Frontier.jpg",
+      "CartImage":"Images/CartImages/The_Final_Frontier.jpg",
+      "Price":99
+    },
+    {
+      "Title": "The Book of Souls",
+      "Songs": ["Caught Somewhere in Time","Wasted Years","Sea of Madness", "Heaven Can Wait",
+        "The Loneliness of the Long Distance Runner","Stranger in a Strange Land","Deja Vu", "Alexander The Great"],
+      "ReleaseDate": "04-09-2011",
+      "Image":"Images/The_Book_Of_Souls.jpg",
+      "CartImage":"Images/CartImages/The_Book_Of_Souls.jpg",
+      "Price":99
+    }
+  ]
+}

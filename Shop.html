@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style/index.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="wrapper">
+        <header class="fixed">
+            <section class="left">
+                <h1>ALIVE AFTER DEATH</h1>
+            </section>
+            <section class="nav-container">
+                <nav class="navigation">
+                    <a href="javascript:void(0)" class="hide"><b>X</b></a>
+                    <a href="Index.html">Home</a>
+                    <a href="History.html">History</a>
+                    <a href="Discography.html">Discography</a>
+                </nav>
+            </section>
+            <section class="right">
+                <p class="cartItems"></p>
+                <span class="material-icons-outlined cart">shopping_cart</span>
+                <span class="material-icons-outlined hamburger">menu</span>
+            </section>
+            
+        </header>
+        <main id="mainForm">
+            <form id="buy">
+                <p>
+                    <label for="uname">Name:</label>
+                    <label for="uname" class="reqfield">
+                        <strong class="required" title="Mandatory field">*</strong>
+                    </label>
+                    <input type="text" name="uname" id="uname" 
+                     placeholder="Name Surname" />    
+                </p> 
+                
+                <p>
+                    <label for="umail">Email:</label>
+                    <label for="umail" class="reqfield">
+                        <strong class="required" title="Mandatory field">*</strong>      
+                    </label>   
+                    <input type="text" name="umail" id="umail" placeholder="foo@bar.com" /> 
+                </p> 
+                <p>
+                    <label for="adress">Adress :</label>
+                    <label for="adress" class="reqfield">
+                        <strong class="required" title="Mandatory field">*</strong>
+                    </label>
+                    <input type="text" name="adress" id="adress"  placeholder="adress" />    
+                </p> 
+                <p>
+                    <label for="nr">Street nr:</label>
+                    <label for="nr" class="reqfield">
+                        <strong class="required" title="Mandatory field">*</strong>      
+                    </label>   
+                    <input id="nr" type="text" name ="nr"  placeholder="00">
+                </p> 
+                <p>
+                    <label for="postnr">Postal code:</label>
+                    <label for="postnr" class="reqfield">
+                        <strong class="required" title="Mandatory field">*</strong>      
+                    </label>   
+                    <input type="text" id="postnr" name="postnr"  placeholder="00000"> 
+                </p> 
+                <p>
+                    <label for="phonenr">Phone: </label>
+                    <label for="phonenr" class="reqfield">
+                        <strong class="required" title="Mandatory field">*</strong>      
+                    </label>   
+                    <input type="text" id="phonenr" name="phonenr"  placeholder="0000000000">
+                </p> 
+
+                <p>
+                    <input value="Buy" type="submit" />    
+                </p>  
+                
+            </form>
+            <section id="checkout">
+
+            </section>
+        </main>
+    </div>
+    
+    <script src="Js/form.js"></script>
+    <script src="Js/index.js"></script>
+    <script src="Js/showCart.js"></script>
+</body>
+</html>
