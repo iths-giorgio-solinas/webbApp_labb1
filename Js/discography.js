@@ -8,6 +8,8 @@ then((data)=>{
     createSingleAlbum(data, albums);
     addToLocal(data);
     
+}).catch((e)=>{
+    console.log(e);
 });
 function addToLocal(data) {
     let buy = document.querySelectorAll('.buy');
